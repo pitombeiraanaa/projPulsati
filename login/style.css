@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body{
+    overflow: hidden;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    background-color: #141318;
+    width: 100%;
+    height: 90px;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+
+}
+
+
+.btn-cadastro{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px;
+}
+
+
+
+
